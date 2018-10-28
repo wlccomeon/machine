@@ -39,7 +39,7 @@ print "The last 2 elements of the sum", c[-2:]
 print "NumPySum elapsed time in microseconds", delta.microseconds
 
 #numpy数组
-a = arange(5)
+a = np.arange(5)
 a.dtype
 
 a
